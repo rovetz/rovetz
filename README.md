@@ -3,7 +3,7 @@
 Never satisfied with the surface—always delving deeper
 
 <h3>Tools, languages, and other things that I like to work with</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,tailwind,graphql,docker,git,github,neovim,figma" />
   </a>
