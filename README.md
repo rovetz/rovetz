@@ -1,7 +1,8 @@
 ## :heart: build software with Ruby and Rails
 
-Never satisfied with the surface—always delving deeper
+Never satisfied with the surface — always delving deeper
 
+</br>
 <h3>Tools, languages, and other things that I like to work with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -13,7 +14,7 @@ Never satisfied with the surface—always delving deeper
 <p align="center">&nbsp;<img align="center" src="snake.svg" alt="my github stats in game" /></p>
 -->
 
-</br></br>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovetz&label=Profile%20views&color=brightgreen&style=flat" alt="my profile views" /></p>
 
 <!--
