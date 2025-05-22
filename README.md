@@ -5,7 +5,7 @@ Never satisfied with the surface—always delving deeper
 <h3>Tools, languages, and other things that I like to work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,tailwind,graphql,docker,git,github,textmate,neovim,figma" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,tailwind,graphql,docker,git,github,neovim,figma" />
   </a>
 </p>
 
