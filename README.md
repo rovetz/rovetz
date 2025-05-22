@@ -5,7 +5,7 @@ Never satisfied with the surface—always delving deeper
 <h3>Tools, languages, and other things that I like to work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,html,js,ts,react,remix,nextjs,astro,svelte,css,tailwind,graphql,apollo,nodejs,nestjs,docker,terraform,bun,pnpm,npm,vite,vitest,git,github,supabase,neovim,webstorm,figma" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,html,js,ts,react,remix,nextjs,astro,svelte,css,tailwind,graphql,apollo,nodejs,nestjs,docker,terraform,bun,pnpm,npm,vite,vitest,git,github,supabase,neovim,webstorm,figma" />
   </a>
 </p>
 
