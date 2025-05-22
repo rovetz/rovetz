@@ -13,6 +13,7 @@ Never satisfied with the surface—always delving deeper
 <p align="center">&nbsp;<img align="center" src="snake.svg" alt="my github stats in game" /></p>
 -->
 
+</br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovetz&label=Profile%20views&color=brightgreen&style=flat" alt="my profile views" /></p>
 
 <!--
