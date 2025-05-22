@@ -1,4 +1,4 @@
-## :heart: build software with Ruby and Rails
+## :heart: building software with Ruby and Rails
 
 Never satisfied with the surface — always delving deeper
 
